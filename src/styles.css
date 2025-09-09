@@ -105,4 +105,9 @@ label.full{grid-column:1/-1}
   .grid, .menu-grid, .gallery-grid, .form-grid{grid-template-columns:1fr}
   .brand img{width:32px; height:32px}
   .hamburger{display:block}
+  /* Footer responsive fixes */
+  .footer-inner{flex-direction:column; align-items:flex-start; gap:.75rem}
+  .footer-links{flex-wrap:wrap; gap:.5rem .75rem; width:100%}
+  .footer-links a{display:inline-block; padding:.4rem .6rem; background:#1e0a0a; border-radius:.5rem; border:1px solid rgba(255,255,255,.08)}
+  .subfooter .container{text-align:center}
 }
