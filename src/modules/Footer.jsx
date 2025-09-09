@@ -7,7 +7,7 @@ export default function Footer(){
         <div className="brandline">
           <img src="/images/logo.jpg" alt="Logo"/>
           <div>
-            <strong>Chilukamma's Natu Kitchen</strong>
+            <strong>Chilukamma's Naatu Swaad</strong>
             <div className="muted">Catering & Cooking Services • Authentic Telugu Cuisine</div>
           </div>
         </div>
@@ -21,7 +21,7 @@ export default function Footer(){
       </div>
       <div className="subfooter">
         <div className="container">
-          © {new Date().getFullYear()} Chilukamma's Natu Kitchen. All rights reserved.
+          © {new Date().getFullYear()} Chilukamma's Naatu Swaad. All rights reserved.
         </div>
       </div>
     </footer>

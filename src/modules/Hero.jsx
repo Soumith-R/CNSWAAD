@@ -5,8 +5,8 @@ export default function Hero(){
     <header className="hero">
       <nav className="nav container">
         <a className="brand" href="#home">
-          <img src="/images/logo.jpg" alt="Chilukamma's Natu Kitchen logo" />
-          <span>Chilukamma's Natu Kitchen</span>
+          <img src="/images/logo.jpg" alt="Chilukamma's Naatu Swaad logo" />
+          <span>Chilukamma's Naatu Swaad</span>
         </a>
         <input id="menu-toggle" type="checkbox" />
         <label className="hamburger" htmlFor="menu-toggle" aria-label="Toggle Menu">☰</label>
@@ -20,7 +20,7 @@ export default function Hero(){
       </nav>
 
       <div className="container hero-content">
-  <h1>Authentic Natu flavors for every celebration</h1>
+  <h1>Authentic Naatu flavors for every celebration</h1>
         <p>Catering and on-site cooking crafted with love, tradition, and impeccable hygiene.</p>
         <div className="actions">
           <a className="btn primary" href="#contact">Book catering</a>
